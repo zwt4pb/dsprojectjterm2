@@ -11,11 +11,11 @@
 
 We decided to explore the similarities and differences in sentiment patterns between three influential artists generally in the Pop music genre!
 
-- **Lady Gaga**: Stefani Joanne Angelina Germanotta, 38 years old, is known for her versatility in music and her image reinventions. She has strong musical influences in pop, dance-pop, and electronic genres. She gained popularity in 2008 through her debut single “Just Dance.” She’s also acted in *A Star is Born*, which featured her most popular song “Shallow,” as well as *Joker: Folie à Deux,* from which albums *Harlequin* and the Joker soundtrack originated.  
+- **Lady Gaga**: Stefani Joanne Angelina Germanotta, 38 years old, is known for her versatility in music and her image reinventions. She has strong musical influences in pop, dance-pop, and electronic genres. She gained popularity in 2008 through her debut single “Just Dance.” She has also acted in *A Star is Born*, which featured her most popular song “Shallow,” as well as *Joker: Folie à Deux,* from which albums *Harlequin* and the Joker soundtrack originated.  
 
-- **The Weeknd**: Abel Tesfaye, 34 years old, is a Canadian-born artist known for his wide range of themes—from love to heartbreak to self-discovery—woven through R&B, Synthwave, and Pop genres. His most popular song, “The Hills,” was released in 2015.  
+- **The Weeknd**: Abel Tesfaye, 34 years old, is a Canadian-born artist known for his wide range of themes—from love to heartbreak to self-discovery—woven through R&B, Synthwave, and Pop genres. His most streamed song "Blinding Lights" was released in 2020, reaching over 4 billion streams!
 
-- **Justin Bieber**: A 30-year-old Canadian-born artist who became strikingly popular after his debut single “One Time” in 2009. Bieber has since become a household name in pop, dance-pop, and R&B. The all-time favorite “Baby,” featuring Ludacris, was released in 2010, while his most streamed song remains “Love Yourself,” an acoustic pop track with introspective lyrics.  
+- **Justin Bieber**: A 30-year-old Canadian-born artist who became strikingly popular after his debut single “One Time” in 2009. Bieber has since become a household name in pop, dance-pop, and R&B. The all-time favorite “Baby,” featuring Ludacris, was released in 2010, while his most streamed song remains as "STAY" and “Love Yourself,” an acoustic pop track with introspective lyrics.  
 
 ---
 

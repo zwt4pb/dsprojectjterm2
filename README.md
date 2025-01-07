@@ -3,7 +3,7 @@
 # Sentiment Analysis of Pop Artists: Lady Gaga, The Weeknd, and Justin Bieber
 
 ## Research Question:
-How has the sentiment in Lady Gaga, The Weeknd, and Justin Bieber’s music evolved over time? Are there notable patterns across these three influential pop artists, and do these correlate with significant events in their lives?
+*How has the sentiment in Lady Gaga, The Weeknd, and Justin Bieber’s music evolved over time? Are there notable patterns across these three influential pop artists, and do these correlate with significant events in their lives?*
 
 ---
 

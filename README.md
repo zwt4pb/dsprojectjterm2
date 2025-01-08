@@ -62,4 +62,30 @@ Our project differs because we are using text files retrieved via API calls for 
 
 ---
 
+## A Word Cloud of Each Artist's Most Popular Song
+Through API calls to Genius.com, we were able to gather lyrics of each artist's most popular song and create a word cloud to help identify themes within the song.
+
+### Justin Bieber's "Love Yourself"
+![Bieber Popular Song](https://raw.githubusercontent.com/zwt4pb/dsprojectjterm2/main/bieber%20popular%20song.png)
+
+### Lady Gaga's "Shallow"
+![Gaga Popular Song](https://raw.githubusercontent.com/zwt4pb/dsprojectjterm2/main/gaga%20popular%20song.png)
+
+### The Weeknd's "The Hills"
+![Weeknd Popular Song](https://raw.githubusercontent.com/zwt4pb/dsprojectjterm2/main/weeknd%20popular%20song.png)
+
+--- 
+
+## Discography Word Clouds
+For each artist's entire discography, we were able to see what words were most commonly repeated to identify overall themes within the music they are making. 
+
+### Justin Bieber
 ![Bieber Combined](https://raw.githubusercontent.com/zwt4pb/dsprojectjterm2/main/bieber%20combined.png)
+
+### Lady Gaga
+![Gaga Combined](https://raw.githubusercontent.com/zwt4pb/dsprojectjterm2/main/gaga%20combined.png)
+
+### The Weeknd
+![Weeknd Combined](https://raw.githubusercontent.com/zwt4pb/dsprojectjterm2/main/weeknd%20combined.png)
+
+--- 

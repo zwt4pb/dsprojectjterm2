@@ -83,6 +83,7 @@ The dramatic and heartfelt delivery reflects themes of self-discovery and connec
 Common Words: "Fucked," "real," "love," "touch," "feel."
 Lyrics are raw and explicit, emphasizing authenticity and physicality.
 The explicit nature suggests a darker tone, which we can hypothesize correlates with a more negative sentiment score.
+
 --- 
 
 ## Discography Word Clouds

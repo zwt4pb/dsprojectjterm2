@@ -104,3 +104,11 @@ All three artists heavily use words like "love" and "know," reflecting the unive
 The prominence of conversational words like "oh," "yeah," and "baby" across all clouds showcases their connection to pop and R&B influences.
 
 --- 
+
+## Albums and Major Events Plot
+This project showcases a timeline of album releases and significant events for selected artists. The visualization was created using Plotly and exported as an interactive HTML file.
+
+<iframe src="https://zwt4pb.github.io/dsprojectjterm2/output_graph.html" 
+        width="100%" height="600" style="border:none;"></iframe>
+
+---

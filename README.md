@@ -61,3 +61,5 @@ Our project differs because we are using text files retrieved via API calls for 
 - Creation of word clouds.  
 
 ---
+
+![Bieber Word Cloud](bieber_combined.png)

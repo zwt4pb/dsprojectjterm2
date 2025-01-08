@@ -67,13 +67,19 @@ Through API calls to Genius.com, we were able to gather lyrics of each artist's 
 
 ### Justin Bieber's "Love Yourself"
 ![Bieber Popular Song](https://raw.githubusercontent.com/zwt4pb/dsprojectjterm2/main/bieber%20popular%20song.png)
-
+Common Words: "Love," "still," "think," "cause," "baby."
+Focuses on themes of self-worth and detachment in relationships.
+Lyrics are conversational and introspective, balancing vulnerability and empowerment.
 ### Lady Gaga's "Shallow"
 ![Gaga Popular Song](https://raw.githubusercontent.com/zwt4pb/dsprojectjterm2/main/gaga%20popular%20song.png)
-
+Common Words: "Ha," "shallow," "far," "times," "need."
+Highlights emotional depth and longing.
+The dramatic and heartfelt delivery reflects themes of self-discovery and connection.
 ### The Weeknd's "The Hills"
 ![Weeknd Popular Song](https://raw.githubusercontent.com/zwt4pb/dsprojectjterm2/main/weeknd%20popular%20song.png)
-
+Common Words: "Fucked," "real," "love," "touch," "feel."
+Lyrics are raw and explicit, emphasizing authenticity and physicality.
+The explicit nature suggests a darker tone, which we can hypothesize correlates with a more negative sentiment score.
 --- 
 
 ## Discography Word Clouds
@@ -85,7 +91,12 @@ For each artist's entire discography, we were able to see what words were most c
 ### Lady Gaga
 ![Gaga Combined](https://raw.githubusercontent.com/zwt4pb/dsprojectjterm2/main/gaga%20combined.png)
 
+
 ### The Weeknd
 ![Weeknd Combined](https://raw.githubusercontent.com/zwt4pb/dsprojectjterm2/main/weeknd%20combined.png)
+
+Universal Themes:
+All three artists heavily use words like "love" and "know," reflecting the universal appeal of relationships and emotional storytelling.
+The prominence of conversational words like "oh," "yeah," and "baby" across all clouds showcases their connection to pop and R&B influences.
 
 --- 

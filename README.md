@@ -62,4 +62,4 @@ Our project differs because we are using text files retrieved via API calls for 
 
 ---
 
-![Bieber Word Cloud](bieber_combined.png)
+![Bieber Combined](https://raw.githubusercontent.com/zwt4pb/dsprojectjterm2/main/bieber%20combined.png)

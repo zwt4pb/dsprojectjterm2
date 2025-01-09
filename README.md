@@ -83,15 +83,8 @@ Common Words: "Fucked," "real," "love," "touch," "feel."
 Lyrics are raw and explicit, emphasizing authenticity and physicality.
 The explicit nature suggests a darker tone, which we can hypothesize correlates with a more negative sentiment score.
 
---- 
-## Sentiment Analysis
-- Sentiment analysis in our data is used to evaluate the emotional tone of song lyrics, scoring them on a scale of positive, neutral, and negative.
-- Lyrics with ambiguous or mixed emotions are often scored as neutral (-0.05 to 0.05)
-- Limitation: The sentiment analysis does not account for modifying factors, such as negations or contextual cues.
-
-Example: "I don't love..." would still contribute a positive sentiment to the word "love".
-
 ---
+
 ## Discography Word Clouds
 For each artist's entire discography, we were able to see what words were most commonly repeated to identify overall themes within the music they are making. 
 
@@ -100,7 +93,6 @@ For each artist's entire discography, we were able to see what words were most c
 
 ### Lady Gaga
 ![Gaga Combined](https://raw.githubusercontent.com/zwt4pb/dsprojectjterm2/main/gaga%20combined.png)
-
 
 ### The Weeknd
 ![Weeknd Combined](https://raw.githubusercontent.com/zwt4pb/dsprojectjterm2/main/weeknd%20combined.png)
@@ -112,6 +104,24 @@ The prominence of conversational words like "oh," "yeah," and "baby" across all 
 --- 
 
 ## Sentiment Analysis
+
+- Sentiment analysis in our data is used to evaluate the emotional tone of song lyrics, scoring them on a scale of positive, neutral, and negative.
+- Lyrics with ambiguous or mixed emotions are often scored as neutral (-0.05 to 0.05)
+- Limitation: The sentiment analysis does not account for modifying factors, such as negations or contextual cues.
+
+Example: "I don't love..." would still contribute a positive sentiment to the word "love".
+
+### Justin Bieber
+The following plot illustrates the relationship between the sentiment scores of Justin Bieber's songs and their streaming numbers.
+![Justin Bieber Sentiment Plot](https://raw.githubusercontent.com/zwt4pb/dsprojectjterm2/main/bieberplot.png)
+
+### Lady Gaga
+The following plot illustrates the relationship between the sentiment scores of Lady Gaga's songs and their streaming numbers.
+![Lady Gaga Sentiment Plot](https://raw.githubusercontent.com/zwt4pb/dsprojectjterm2/main/gagaplot.png)
+
+### The Weeknd
+The following plot illustrates the relationship between the sentiment scores of The Weeknd's songs and their streaming numbers.
+![The Weeknd Sentiment Plot](https://raw.githubusercontent.com/zwt4pb/dsprojectjterm2/main/weekndplot.png)
 
 ---
 

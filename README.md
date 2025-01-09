@@ -54,7 +54,7 @@ Our project differs because we are using text files retrieved via API calls for 
 
 ---
 ## Sentiment Analysis
-- Sentiment analysis in our data is used to evaluate the emotional tone of song lyrics, scoring them on a scale where positive, neutral, and negative.
+- Sentiment analysis in our data is used to evaluate the emotional tone of song lyrics, scoring them on a scale of positive, neutral, and negative.
 - Lyrics with ambiguous or mixed emotions are often scored as neutral (-0.05 to 0.05)
 - Limitation: The sentiment analysis does not account for modifying factors, such as negations or contextual cues.
         - EX: "I don't love..." would still contribute a positive sentiment to the word "love":

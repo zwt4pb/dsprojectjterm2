@@ -53,11 +53,6 @@ Our project differs because we are using text files retrieved via API calls for 
 3. **Overlay Trends**: Correlate sentiment trends with significant personal or professional events to analyze their influence on lyrical sentiment.  
 
 ---
-## Sentiment Analysis
-- Sentiment analysis in our data is used to evaluate the emotional tone of song lyrics, scoring them on a scale of positive, neutral, and negative.
-- Lyrics with ambiguous or mixed emotions are often scored as neutral (-0.05 to 0.05)
-- Limitation: The sentiment analysis does not account for modifying factors, such as negations or contextual cues.
-        - EX: "I don't love..." would still contribute a positive sentiment to the word "love":
 ## “New” Techniques:
 
 - Working with text files rather than datasets.  
@@ -89,7 +84,13 @@ Lyrics are raw and explicit, emphasizing authenticity and physicality.
 The explicit nature suggests a darker tone, which we can hypothesize correlates with a more negative sentiment score.
 
 --- 
+## Sentiment Analysis
+- Sentiment analysis in our data is used to evaluate the emotional tone of song lyrics, scoring them on a scale of positive, neutral, and negative.
+- Lyrics with ambiguous or mixed emotions are often scored as neutral (-0.05 to 0.05)
+- Limitation: The sentiment analysis does not account for modifying factors, such as negations or contextual cues.
 
+Example: "I don't love..." would still contribute a positive sentiment to the word "love".
+  
 ## Discography Word Clouds
 For each artist's entire discography, we were able to see what words were most commonly repeated to identify overall themes within the music they are making. 
 

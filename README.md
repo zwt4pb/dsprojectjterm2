@@ -130,4 +130,8 @@ This project showcases a timeline of album releases and significant events for s
 
 - Due to time limitations, we primarily focused on major hits and publicly available data, leaving some deeper insights unexplored.
 
+6. Events Data:
+
+- We asked ChatGPT to generate the list of most media covered events from the time periods listed earlier. This could have let to discrepancies or lack of data points. 
+
 ---

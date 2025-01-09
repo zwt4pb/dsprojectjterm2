@@ -115,27 +115,27 @@ This project showcases a timeline of album releases and significant events for s
 <iframe src="https://zwt4pb.github.io/dsprojectjterm2/output_graph.html" 
         width="100%" height="600" style="border:none;"></iframe>
 
+---
 
-## Limitations 
-1. Duplicates in the Top 100 List:
+## Limitations
 
-- Some songs appear multiple times in the top 100 list, requiring us to manually remove duplicates to ensure the data was unique and accurate.
-2. Difficulties Pulling Lyrics:
+1. **Duplicates in the Top 100 List**  
+   - Some songs appeared multiple times in the top 100 list, requiring manual removal to ensure the data was unique and accurate.
 
-- Retrieving lyrics from Genius was challenging due to differences in the structure of some song pages, making automated scraping unreliable for certain tracks.
-- Some songs lacked a direct match between the API results and the desired song, leading to missing or incomplete data.
-3. API Token Expiration:
+2. **Difficulties Pulling Lyrics**  
+   - Retrieving lyrics from Genius was challenging due to inconsistencies in the structure of some song pages, making automated scraping unreliable for certain tracks.  
+   - Some songs lacked a direct match between the API results and the desired song, leading to missing or incomplete data.
 
-- The Genius API token had a short expiration period, requiring frequent regeneration. This disrupted the data retrieval process and caused delays.
-4. Incomplete Discography Coverage:
+3. **API Token Expiration**  
+   - The Genius API token had a short expiration period, necessitating frequent regeneration. This disrupted the data retrieval process and caused delays.
 
-- The API may not have returned all songs for some artists, particularly older or less popular tracks, leading to gaps in the dataset.
-5. Time Constraints:
+4. **Incomplete Discography Coverage**  
+   - The API may not have returned all songs for some artists, particularly older or less popular tracks, resulting in gaps in the dataset.
 
-- Due to time limitations, we primarily focused on major hits and publicly available data, leaving some deeper insights unexplored.
+5. **Time Constraints**  
+   - Due to time limitations, the focus was on major hits and publicly available data, leaving some deeper insights unexplored.
 
-6. Events Data:
-
-- We asked ChatGPT to generate the list of most media covered events from the time periods listed earlier. This could have let to discrepancies or lack of data points. 
+6. **Events Data**  
+   - ChatGPT was used to generate a list of the most media-covered events for the specified time periods. This approach may have introduced discrepancies or omitted certain data points.
 
 ---

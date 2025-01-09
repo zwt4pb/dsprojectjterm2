@@ -90,7 +90,8 @@ The explicit nature suggests a darker tone, which we can hypothesize correlates 
 - Limitation: The sentiment analysis does not account for modifying factors, such as negations or contextual cues.
 
 Example: "I don't love..." would still contribute a positive sentiment to the word "love".
-  
+
+---
 ## Discography Word Clouds
 For each artist's entire discography, we were able to see what words were most commonly repeated to identify overall themes within the music they are making. 
 

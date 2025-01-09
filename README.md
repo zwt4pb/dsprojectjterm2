@@ -111,6 +111,10 @@ The prominence of conversational words like "oh," "yeah," and "baby" across all 
 
 --- 
 
+## Sentiment Analysis
+
+---
+
 ## Albums and Major Events Plot
 This project showcases a timeline of album releases and significant events for selected artists. The visualization was created using Plotly and exported as an interactive HTML file. This data was sourced from asking ChatGPT to compile a list of events most heavily covered in the media. 
 

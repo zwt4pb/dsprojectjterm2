@@ -114,15 +114,20 @@ This project showcases a timeline of album releases and significant events for s
 
 ## Limitations 
 1. Duplicates in the Top 100 List:
-Some songs appear multiple times in the top 100 list, requiring us to manually remove duplicates to ensure the data was unique and accurate.
+
+- Some songs appear multiple times in the top 100 list, requiring us to manually remove duplicates to ensure the data was unique and accurate.
 2. Difficulties Pulling Lyrics:
-Retrieving lyrics from Genius was challenging due to differences in the structure of some song pages, making automated scraping unreliable for certain tracks.
-Some songs lacked a direct match between the API results and the desired song, leading to missing or incomplete data.
+
+- Retrieving lyrics from Genius was challenging due to differences in the structure of some song pages, making automated scraping unreliable for certain tracks.
+- Some songs lacked a direct match between the API results and the desired song, leading to missing or incomplete data.
 3. API Token Expiration:
-The Genius API token had a short expiration period, requiring frequent regeneration. This disrupted the data retrieval process and caused delays.
+
+- The Genius API token had a short expiration period, requiring frequent regeneration. This disrupted the data retrieval process and caused delays.
 4. Incomplete Discography Coverage:
-The API may not have returned all songs for some artists, particularly older or less popular tracks, leading to gaps in the dataset.
+
+- The API may not have returned all songs for some artists, particularly older or less popular tracks, leading to gaps in the dataset.
 5. Time Constraints:
-Due to time limitations, we primarily focused on major hits and publicly available data, leaving some deeper insights unexplored.
+
+- Due to time limitations, we primarily focused on major hits and publicly available data, leaving some deeper insights unexplored.
 
 ---

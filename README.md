@@ -9,7 +9,7 @@
 
 ## Background Research:
 
-We decided to explore the similarities and differences in sentiment patterns between three influential artists generally in the Pop music genre!
+We decided to explore the similarities and differences in sentiment patterns between three influential artists generally in the Pop music genre! Each group member selected an artist to analyze.  All three have heavily influenced pop music, and ultimately, we just thought it would be fun to analyze these iconic artists in the pop category.
 
 - **Lady Gaga**: Stefani Joanne Angelina Germanotta, 38 years old, is known for her versatility in music and her image reinventions. She has strong musical influences in pop, dance-pop, and electronic genres. She gained popularity in 2008 through her debut single “Just Dance.” She has also acted in *A Star is Born*, which featured her most popular song “Shallow,” as well as *Joker: Folie à Deux,* from which albums *Harlequin* and the Joker soundtrack originated.  
 

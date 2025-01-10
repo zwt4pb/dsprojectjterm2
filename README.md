@@ -138,15 +138,15 @@ Example: "I don't love..." would still contribute a positive sentiment to the wo
 
 ### Justin Bieber
 The following plot illustrates the relationship between the sentiment scores of Justin Bieber's songs and their streaming numbers.
-![Justin Bieber Sentiment Plot](https://raw.githubusercontent.com/zwt4pb/dsprojectjterm2/main/bieberplot.png)
+![Justin Bieber Sentiment Plot](https://github.com/zwt4pb/dsprojectjterm2/blob/main/bieber%20new%20sent%20score%20vs%20streams.png)
 
 ### Lady Gaga
 The following plot illustrates the relationship between the sentiment scores of Lady Gaga's songs and their streaming numbers.
-![Lady Gaga Sentiment Plot](https://raw.githubusercontent.com/zwt4pb/dsprojectjterm2/main/gagaplot.png)
+![Lady Gaga Sentiment Plot](https://github.com/zwt4pb/dsprojectjterm2/blob/main/gaga%20new%20sent%20score%20vs%20streams.png)
 
 ### The Weeknd
 The following plot illustrates the relationship between the sentiment scores of The Weeknd's songs and their streaming numbers.
-![The Weeknd Sentiment Plot](https://raw.githubusercontent.com/zwt4pb/dsprojectjterm2/main/weekndplot.png)
+![The Weeknd Sentiment Plot](https://github.com/zwt4pb/dsprojectjterm2/blob/main/weeknd%20new%20sent%20score%20vs%20streams.png)
 
 ---
 

@@ -103,6 +103,14 @@ The prominence of conversational words like "oh," "yeah," and "baby" across all 
 
 --- 
 
+## Albums and Major Events Plot
+This project showcases a timeline of album releases and significant events for selected artists. The visualization was created using Plotly and exported as an interactive HTML file. This data was sourced from asking ChatGPT to compile a list of events most heavily covered in the media. 
+
+<iframe src="https://zwt4pb.github.io/dsprojectjterm2/output_graph.html" 
+        width="100%" height="600" style="border:none;"></iframe>
+
+---
+
 ## Sentiment Analysis
 
 - Sentiment analysis in our data is used to evaluate the emotional tone of song lyrics, scoring them on a scale of positive, neutral, and negative.
@@ -122,14 +130,6 @@ The following plot illustrates the relationship between the sentiment scores of 
 ### The Weeknd
 The following plot illustrates the relationship between the sentiment scores of The Weeknd's songs and their streaming numbers.
 ![The Weeknd Sentiment Plot](https://raw.githubusercontent.com/zwt4pb/dsprojectjterm2/main/weekndplot.png)
-
----
-
-## Albums and Major Events Plot
-This project showcases a timeline of album releases and significant events for selected artists. The visualization was created using Plotly and exported as an interactive HTML file. This data was sourced from asking ChatGPT to compile a list of events most heavily covered in the media. 
-
-<iframe src="https://zwt4pb.github.io/dsprojectjterm2/output_graph.html" 
-        width="100%" height="600" style="border:none;"></iframe>
 
 ---
 

@@ -133,6 +133,22 @@ This project showcases a timeline of album releases and significant events for s
 
 ---
 
+## Sentiment Analysis Over Time
+
+### Justin Bieber
+<iframe src="https://zwt4pb.github.io/dsprojectjterm2/bieber_SOT.html" 
+        width="100%" height="600" style="border:none;"></iframe>
+
+### Lady Gaga
+<iframe src="https://zwt4pb.github.io/dsprojectjterm2/gaga_SOT.html" 
+        width="100%" height="600" style="border:none;"></iframe>
+
+### The Weeknd
+<iframe src="https://zwt4pb.github.io/dsprojectjterm2/weeknd_SOT.html" 
+        width="100%" height="600" style="border:none;"></iframe>
+
+---
+
 ## Limitations
 
 1. **Duplicates in the Top 100 List**  

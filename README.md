@@ -110,7 +110,7 @@ A look at the top 10 streamed songs for each artist, with the number of streams 
 ![Visualization Bieber](https://github.com/zwt4pb/dsprojectjterm2/raw/main/visualization_bieber.jpg)
 
 ## Lady Gaga
-![Visualization Weekend](https://github.com/zwt4pb/dsprojectjterm2/raw/main/visualization_weekend.jpg)
+![Visualization Weekend](https://github.com/zwt4pb/dsprojectjterm2/blob/main/visualization_gaga.jpg)
 
 ## The Weeknd
 ![Visualization Weekend](https://github.com/zwt4pb/dsprojectjterm2/raw/main/visualization_weekend.jpg)
@@ -132,9 +132,14 @@ This project showcases a timeline of album releases and significant events for s
 - Limitation: The sentiment analysis does not account for modifying factors, such as negations or contextual cues.
 
 The following code shows how Sentiment Analysis is defined, as well as an example output.
-<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/sentiment%20score%20defined.png" alt="Sentiment Score Defined" width="600">
+<table>
+  <tr>
+    <td><img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/sentiment%20score%20defined.png" alt="Sentiment Score Defined" width="400"></td>
+    <td><img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/sentiment%20score%20defined2.png" alt="Sentiment Score Defined 2" width="400"></td>
+  </tr>
+</table>
 
-Example: "I don't love..." would still contribute a positive sentiment to the word "love".
+Example: "I don't love..." would still contribute a positive sentiment to the word "love", whereas "I do not love" has a negative sentiment.
 
 ### Justin Bieber
 The following plot illustrates the relationship between the sentiment scores of Justin Bieber's songs and their streaming numbers.

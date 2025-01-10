@@ -103,6 +103,20 @@ The prominence of conversational words like "oh," "yeah," and "baby" across all 
 
 --- 
 
+## Top Streams By Artist
+A look at the top 10 streamed songs for each artist, with the number of streams as well as the album the song came from.
+
+## Justin Bieber
+![Visualization Bieber](https://github.com/zwt4pb/dsprojectjterm2/raw/main/visualization_bieber.jpg)
+
+## Lady Gaga
+![Visualization Weekend](https://github.com/zwt4pb/dsprojectjterm2/raw/main/visualization_weekend.jpg)
+
+## The Weeknd
+![Visualization Weekend](https://github.com/zwt4pb/dsprojectjterm2/raw/main/visualization_weekend.jpg)
+
+---
+
 ## Albums and Major Events Plot
 This project showcases a timeline of album releases and significant events for selected artists. The visualization was created using Plotly and exported as an interactive HTML file. This data was sourced from asking ChatGPT to compile a list of events most heavily covered in the media. 
 

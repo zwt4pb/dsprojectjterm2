@@ -170,4 +170,5 @@ This project showcases a timeline of album releases and significant events for s
 6. **Events Data**  
    - ChatGPT was used to generate a list of the most media-covered events for the specified time periods. This approach may have introduced discrepancies or omitted certain data points.
 
+7. **We Don't Know These Artists Personally**
 ---

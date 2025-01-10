@@ -107,13 +107,13 @@ The prominence of conversational words like "oh," "yeah," and "baby" across all 
 A look at the top 10 streamed songs for each artist, with the number of streams as well as the album the song came from.
 
 ## Justin Bieber
-![Visualization Bieber](https://github.com/zwt4pb/dsprojectjterm2/raw/main/visualization_bieber.jpg)
+<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/visualization_bieber.jpg" alt="Visualization Bieber" width="400">
 
 ## Lady Gaga
-![Visualization Weekend](https://github.com/zwt4pb/dsprojectjterm2/blob/main/visualization_gaga.jpg)
+<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/visualization_gaga.jpg" alt="Visualization Gaga" width="400">
 
 ## The Weeknd
-![Visualization Weekend](https://github.com/zwt4pb/dsprojectjterm2/raw/main/visualization_weekend.jpg)
+<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/visualization_weekend.jpg" alt="Visualization Weekend" width="400">
 
 ---
 
@@ -143,15 +143,15 @@ Example: "I don't love..." would still contribute a positive sentiment to the wo
 
 ### Justin Bieber
 The following plot illustrates the relationship between the sentiment scores of Justin Bieber's songs and their streaming numbers.
-![Justin Bieber Sentiment Plot](https://github.com/zwt4pb/dsprojectjterm2/blob/main/bieber%20new%20sent%20score%20vs%20streams.png)
+<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/bieber%20new%20sent%20score%20vs%20streams.png" alt="Justin Bieber Sentiment Plot" width="400">
 
 ### Lady Gaga
 The following plot illustrates the relationship between the sentiment scores of Lady Gaga's songs and their streaming numbers.
-![Lady Gaga Sentiment Plot](https://github.com/zwt4pb/dsprojectjterm2/blob/main/gaga%20new%20sent%20score%20vs%20streams.png)
+<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/gaga%20new%20sent%20score%20vs%20streams.png" alt="Lady Gaga Sentiment Plot" width="400">
 
 ### The Weeknd
 The following plot illustrates the relationship between the sentiment scores of The Weeknd's songs and their streaming numbers.
-![The Weeknd Sentiment Plot](https://github.com/zwt4pb/dsprojectjterm2/blob/main/weeknd%20new%20sent%20score%20vs%20streams.png)
+<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/weeknd%20new%20sent%20score%20vs%20streams.png" alt="The Weeknd Sentiment Plot" width="400">
 
 ---
 
@@ -174,23 +174,24 @@ The following plot illustrates the relationship between the sentiment scores of 
 ## Limitations
 
 1. **Duplicates in the Top 100 List**  
-   - Some songs appeared multiple times in the top 100 list, requiring manual removal to ensure the data was unique and accurate.
+   Some songs appeared multiple times in the top 100 list, requiring manual removal to ensure the data was unique and accurate.
 
 2. **Difficulties Pulling Lyrics**  
    - Retrieving lyrics from Genius was challenging due to inconsistencies in the structure of some song pages, making automated scraping unreliable for certain tracks.  
    - Some songs lacked a direct match between the API results and the desired song, leading to missing or incomplete data.
 
 3. **API Token Expiration**  
-   - The Genius API token had a short expiration period, necessitating frequent regeneration. This disrupted the data retrieval process and caused delays.
+   The Genius API token had a short expiration period, necessitating frequent regeneration. This disrupted the data retrieval process and caused delays.
 
 4. **Incomplete Discography Coverage**  
-   - The API may not have returned all songs for some artists, particularly older or less popular tracks, resulting in gaps in the dataset.
+   The API may not have returned all songs for some artists, particularly older or less popular tracks, resulting in gaps in the dataset.
 
 5. **Time Constraints**  
-   - Due to time limitations, the focus was on major hits and publicly available data, leaving some deeper insights unexplored.
+   Due to time limitations, the focus was on major hits and publicly available data, leaving some deeper insights unexplored.
 
 6. **Events Data**  
-   - ChatGPT was used to generate a list of the most media-covered events for the specified time periods. This approach may have introduced discrepancies or omitted certain data points.
+   ChatGPT was used to generate a list of the most media-covered events for the specified time periods. This approach may have introduced discrepancies or omitted certain data points.
 
 7. **We Don't Know These Artists Personally**
+
 ---

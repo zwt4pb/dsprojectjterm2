@@ -134,7 +134,7 @@ This project showcases a timeline of album releases and significant events for s
 The following code shows how Sentiment Analysis is defined, as well as an example output.
 <table>
   <tr>
-    <td><img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/sentiment%20score%20defined.png" alt="Sentiment Score Defined" width="400"></td>
+    <td><img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/definition.png" alt="Sentiment Score Defined" width="400"></td>
     <td><img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/sentiment%20score%20defined2.png" alt="Sentiment Score Defined 2" width="400"></td>
   </tr>
 </table>

@@ -107,13 +107,13 @@ The prominence of conversational words like "oh," "yeah," and "baby" across all 
 A look at the top 10 streamed songs for each artist, with the number of streams as well as the album the song came from.
 
 ## Justin Bieber
-<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/visualization_bieber.jpg" alt="Visualization Bieber" width="400">
+<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/visualization_bieber.jpg" alt="Visualization Bieber" width="500">
 
 ## Lady Gaga
-<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/visualization_gaga.jpg" alt="Visualization Gaga" width="400">
+<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/visualization_gaga.jpg" alt="Visualization Gaga" width="500">
 
 ## The Weeknd
-<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/visualization_weekend.jpg" alt="Visualization Weekend" width="400">
+<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/visualization_weekend.jpg" alt="Visualization Weekend" width="500">
 
 ---
 
@@ -143,15 +143,15 @@ Example: "I don't love..." would still contribute a positive sentiment to the wo
 
 ### Justin Bieber
 The following plot illustrates the relationship between the sentiment scores of Justin Bieber's songs and their streaming numbers.
-<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/bieber%20new%20sent%20score%20vs%20streams.png" alt="Justin Bieber Sentiment Plot" width="400">
+<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/bieber%20new%20sent%20score%20vs%20streams.png" alt="Justin Bieber Sentiment Plot" width="500">
 
 ### Lady Gaga
 The following plot illustrates the relationship between the sentiment scores of Lady Gaga's songs and their streaming numbers.
-<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/gaga%20new%20sent%20score%20vs%20streams.png" alt="Lady Gaga Sentiment Plot" width="400">
+<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/gaga%20new%20sent%20score%20vs%20streams.png" alt="Lady Gaga Sentiment Plot" width="500">
 
 ### The Weeknd
 The following plot illustrates the relationship between the sentiment scores of The Weeknd's songs and their streaming numbers.
-<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/weeknd%20new%20sent%20score%20vs%20streams.png" alt="The Weeknd Sentiment Plot" width="400">
+<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/weeknd%20new%20sent%20score%20vs%20streams.png" alt="The Weeknd Sentiment Plot" width="500">
 
 ---
 

@@ -117,8 +117,7 @@ This project showcases a timeline of album releases and significant events for s
 - Lyrics with ambiguous or mixed emotions are often scored as neutral (-0.05 to 0.05)
 - Limitation: The sentiment analysis does not account for modifying factors, such as negations or contextual cues.
 
-<iframe src="https://github.com/zwt4pb/dsprojectjterm2/blob/main/definition_sentimental_rating.html" width="100%" height="600"></iframe>
-
+<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/sentiment%20score%20defined.png" alt="Sentiment Score Defined" width="400">
 
 Example: "I don't love..." would still contribute a positive sentiment to the word "love".
 

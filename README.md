@@ -107,13 +107,13 @@ The prominence of conversational words like "oh," "yeah," and "baby" across all 
 A look at the top 10 streamed songs for each artist, with the number of streams as well as the album the song came from.
 
 ## Justin Bieber
-<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/visualization_bieber.jpg" alt="Visualization Bieber" width="500">
+<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/visualization_bieber.jpg" alt="Visualization Bieber" width="600">
 
 ## Lady Gaga
-<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/visualization_gaga.jpg" alt="Visualization Gaga" width="500">
+<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/visualization_gaga.jpg" alt="Visualization Gaga" width="600">
 
 ## The Weeknd
-<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/visualization_weekend.jpg" alt="Visualization Weekend" width="500">
+<img src="https://github.com/zwt4pb/dsprojectjterm2/raw/main/visualization_weekend.jpg" alt="Visualization Weekend" width="600">
 
 ---
 
